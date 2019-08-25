@@ -31,5 +31,11 @@
             "icon" : "tune",
             "texto": "Slider - check"
         }
+        ,
+        {
+            "ruta" : "list",
+            "icon" : "list",
+            "texto": "Listas y scroll"
+        }
     ]
 }
